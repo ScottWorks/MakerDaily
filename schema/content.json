@@ -1,0 +1,8 @@
+{
+	"_id": "Int",
+	"title": "String",
+	"link": "String",
+	"publisher_id": "Int",
+	"publish_date": "Date",
+	"type": "String"
+}

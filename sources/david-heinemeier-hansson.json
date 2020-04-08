@@ -1,0 +1,8 @@
+{
+	"creator": "david-heinemeier-hansson",
+	"url": "https://twitter.com/dhh",
+	"username": "dhh",
+	"method": "twitter",
+	"outputFormat": "json",
+	"type": "feed"
+}

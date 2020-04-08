@@ -1,0 +1,8 @@
+{
+	"creator": "paul-graham",
+	"creator_twitter": "https://twitter.com/paulg",
+	"method": "rss",
+	"outputFormat": "xml",
+	"url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+	"type": "blog"
+}

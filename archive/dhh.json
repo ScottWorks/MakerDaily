@@ -1,0 +1,8 @@
+{
+	"creator": "david-heinemeier-hansson",
+	"creator_twitter": "https://twitter.com/dhh",
+	"method": "rss",
+	"outputFormat": "xml",
+	"url": "https://m.signalvnoise.com/feed/",
+	"type": "blog"
+}

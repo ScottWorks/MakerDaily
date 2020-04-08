@@ -1,0 +1,8 @@
+{
+	"creator": "harry-dry",
+	"url": "https://twitter.com/harrydry",
+	"username": "harrydry",
+	"method": "twitter",
+	"outputFormat": "json",
+	"type": "feed"
+}

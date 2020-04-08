@@ -1,0 +1,8 @@
+{
+	"creator": "paul-graham",
+	"url": "https://twitter.com/paulg",
+	"username": "paulg",
+	"method": "twitter",
+	"outputFormat": "json",
+	"type": "feed"
+}

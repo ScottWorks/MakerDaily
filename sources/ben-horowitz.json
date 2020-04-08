@@ -1,0 +1,8 @@
+{
+	"creator": "ben-horowitz",
+	"url": "https://twitter.com/bhorowitz",
+	"username": "bhorowitz",
+	"method": "twitter",
+	"outputFormat": "json",
+	"type": "feed"
+}
